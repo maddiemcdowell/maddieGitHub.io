@@ -1,5 +1,6 @@
 # maddieGitHub.io
-### url: https://github.com/datasets/covid-19
+### Covid-19 Dataset by datahub.io
+url: https://github.com/datasets/covid-19
 This Covid-19 dataset includes 8 csv files detailing information such as confirmed number of Covid cases and Covid deaths by date, country, region etc. There is also time series data for confirmed cases, recovered, and death for each country organized by date. This dataset can be used to study the spread of Covid-19 and observe which countries had the best success rates. It is important to study this data as it may give valuable insights that can help with future possible epidemics and/or pandemics.
 
 ### An Introduction to R by W. N. Venables, D. M. Smith, and the R Core Team
